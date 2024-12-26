@@ -13,6 +13,8 @@ Aspiring Front-End Developer with a passion for creating responsive and user-foc
 ## 🎯🤺 Goals
 
 ## 📬 Reach me
+ - Email: [miedziak.magdalena@gmail.com](mailto:miedziak.magdalena@gmail.com)
+ - LinkedIn: [Magdalena Miedziak](https://www.linkedin.com/in/magdalena-miedziak/) 
 
 
 
