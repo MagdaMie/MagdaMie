@@ -10,7 +10,8 @@ Aspiring Front-End Developer with a passion for creating responsive and user-foc
 
 ## 💻 Featured Projects
 You can find all of my projects below, but I’m especially proud of this one:<br>
-**[Plant Shop Mockup](https://showcase-store-miedziak.netlify.app/)**<br>
+**[Plant Shop Mockup Website](https://showcase-store-miedziak.netlify.app/)**<br>
+**[Plant Shop Mockup Repo](https://github.com/MagdaMie/PlantShopMockup)**<br>
 This is my main showcase project, a mockup of a plant shop where I demonstrated my skills in **React** and **Tailwind CSS**. It’s designed to highlight my frontend expertise and my ability to create responsive, visually appealing applications.
 
 ## 🎯🤺 Goals
